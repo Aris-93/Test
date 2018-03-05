@@ -1,0 +1,63 @@
+ModificationContractor_qMulti_c204        =         1.1
+
+2.2        OK
+
+ModificationContractContact_qType302_c204    =      1.2
+
+ContractorShareholders_qMulti_c204      =        1.3
+
+RelatedKAD2008Info_qMulti_c204     =        1.4
+
+GenericCheckpoints_qCategory16_c204    =     1.5
+
+GenericCheckpoints_qCategory17_c204     =     1.6
+
+ContractorCompaniesShareholders_qMulti_c204    =    2.1
+
+LinkedEnterprises_qMulti_c204            =      2.2
+
+DeMinimisProject_qType1_c204       =            3.1
+
+DeMinimisProject_qType2_c204       =            3.2
+
+DeMinimisProject_qType3_c204       =            3.3
+
+DeMinimisProject_qType4_c204       =            3.4
+
+GenericCheckpoints_qCategory41_c204     =        4.1
+
+ModificationContractContact_qType601_c204     =      4.2
+
+GenericCheckpoints_qCategory3_c204      =            5
+
+GenericCheckpoints_qCategory4_c204       =         6.1
+
+GenericCheckpoints_qCategory63_c204      =        6.2
+
+GenericCheckpoints_qCategory64_c204       =       6.3
+
+GenericCheckpoints_qCategory67_c204       =       6.5
+
+GenericCheckpoints_qCategory68_c204       =       6.6
+
+GenericCheckpoints_qCategory69_c204       =       6.7
+
+GenericCheckpoints_qCategory81_c204       =       7.1
+
+GenericCheckpoints_qCategory65_c204       =       7.2
+
+GenericCheckpoints_qCategory82_c204       =       7.3
+
+GenericCheckpoints_qCategory74_c204       =       7.4
+
+GenericCheckpoints_qCategory91_c204       =        8
+
+9          OK
+
+10         OK
+
+6.4  ?
+
+
+
+
